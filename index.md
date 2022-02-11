@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## 密友墙
 
-You can use the [editor on GitHub](https://github.com/EricRenForCode/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+密友墙是一款社交小组件，让你的iphone主屏上实时显示好友分享过来的图片。
+在各自忙碌的岁月，发张你的照片给最关心的她/他，Ta打开手机就能看到你。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如何使用： 当你的朋友发送了一张照片给你，照片会立马显示再你主页的密友墙小组件中。你也可以在密友墙app中发送一张你的照片到你朋友的桌面小组件里。
+
+我们设计的初衷是为了拉近你与亲密好友，恋人，亲人之间的距离，所以我们目前只允许邀请5个好友。
+
 
 ### Markdown
 
